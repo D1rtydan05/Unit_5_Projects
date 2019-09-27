@@ -57,19 +57,12 @@ header.row > nav > ul > li a{
    width: 100%;
 
 }
-
-
-
-
 /* Horizontal Navigation List Styles */
 nav.horizontal > ul.row li{
    display: block;
    width: 12.5%;
    float: left;
 }
-
-
-
 /* Topics Styles */
 ul#topics.row li{
    display: block;
